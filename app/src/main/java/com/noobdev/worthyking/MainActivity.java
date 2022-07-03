@@ -5,6 +5,8 @@ import android.util.Log;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.noobdev.worthyking.questions.WorthyKing;
+
 
 public class MainActivity extends AppCompatActivity implements Interface.MainInterface {
     String TAG = "mainActivity";
